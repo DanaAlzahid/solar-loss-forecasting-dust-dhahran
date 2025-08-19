@@ -23,3 +23,7 @@ The study highlights challenges in forecasting **rare severe solar-loss events**
 ```bash
 git clone https://github.com/yourusername/solar-loss-forecasting-dust-dhahran.git
 cd solar-loss-forecasting-dust-dhahran
+
+pip install -r requirements.txt
+jupyter notebook notebooks/Dust_Storms_and_Solar_Loss_Analysis_Dhahran.ipynb
+
